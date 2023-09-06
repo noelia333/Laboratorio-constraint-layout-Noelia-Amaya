@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laboratorio constraint layout</string>
+
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+
+    <string name="destinatario_tv">Destinatario:</string>
+    <string name="email_et">Ingrese correo electrónico</string>
+    <string name="asunto_et">Asunto</string>
+    <string name="mensaje_et">Mensaje</string>
+    <string name="publicar_boton">Publicar</string>
+
+
+</resources>
